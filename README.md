@@ -1,6 +1,7 @@
 # Bangla-Text-Classification-Dataset
 
-We have curated a comprehensively large dataset of 2,58,960 Bangla documents labeled with eight different categories that was used for development and testing purpose in some of our thesis works. These articles have been collected with a web crawler from several online Bangla news portals, blogs and magazines. This corpus is open sourced for public usage and we expect that this dataset will help the natural language research community to reinforce NLP tasks in Bangla
+We have curated a comprehensively large dataset of 2,58,960 Bangla documents labeled with eight different categories that was used for development and testing purpose in some of our thesis works. These articles have been collected with a web crawler from several online Bangla news portals, blogs and magazines. We used
+the Alexa rankings to determine the popularity of those websites. This corpus is open sourced for public usage and we expect that this dataset will help the natural language research community to reinforce NLP tasks in Bangla
 ## Corpus-Description
 
 Total Documents: 2,58,960
